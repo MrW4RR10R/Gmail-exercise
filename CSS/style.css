@@ -1,0 +1,63 @@
+/* #Region common*/
+body {
+    background-image: url(../img/concetto-materiale-di-struttura-del-fondo-graffiato-parete-di-legno.jpg);
+    margin: 0%;
+}
+
+header {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+main {
+    margin-top: 1rem;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* #endRegion common */
+
+/* #Region header */
+.logo_img {
+    width: 100px;
+    vertical-align: middle;
+}
+
+.logo_text {
+    color: antiquewhite;
+    font-size: 2rem;
+    vertical-align: middle;
+}
+
+/* #endRegion header */
+
+/* #Region main */
+h1 {
+    color: antiquewhite;
+}
+
+.email {
+    background-color: grey;
+    margin-bottom: 2px;
+    border: 2px solid black;
+    border-radius: 2px;
+}
+
+.unread {
+    background-color: rgb(218, 218, 218);
+}
+
+/* #endRegion main */
+
+/* #Region footer */
+.foot {
+    color: aliceblue;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+/* #Region footer */
